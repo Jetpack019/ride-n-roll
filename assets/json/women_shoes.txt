@@ -1,0 +1,216 @@
+[
+  {
+    "id": "10",
+    "name": "Gravel Explorer",
+    "category": "Bike Styles",
+    "product": "Gravel Bike",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "sizes": [
+      { "size": "48cm", "isSelected": false },
+      { "size": "51cm", "isSelected": false },
+      { "size": "54cm", "isSelected": false },
+      { "size": "56cm", "isSelected": false },
+      { "size": "58cm", "isSelected": false },
+      { "size": "61cm", "isSelected": false },
+      { "size": "64cm", "isSelected": false }
+    ],
+    "price": "1899.00",
+    "description": "Experience the thrill of off-road exploration with the Gravel Explorer bike. Designed for rugged terrains, this versatile bike combines durability, comfort, and performance. Conquer new horizons and embrace the adventure.",
+    "title": "Gravel Explorer Bike"
+  },
+  {
+    "id": "11",
+    "name": "Trailblazer",
+    "category": "Bike Styles",
+    "product": "Mountain Bike",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "sizes": [
+      { "size": "XS", "isSelected": false },
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false }
+    ],
+    "price": "1499.00",
+    "description": "Take your mountain biking to the next level with the Trailblazer bike. Built for challenging trails, this bike offers superior suspension, agile handling, and rugged durability. Dominate the mountains and blaze your own trail.",
+    "title": "Trailblazer Mountain Bike"
+  },
+  {
+    "id": "12",
+    "name": "Speedster",
+    "category": "Bike Styles",
+    "product": "Road Bike",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "sizes": [
+      { "size": "50cm", "isSelected": false },
+      { "size": "52cm", "isSelected": false },
+      { "size": "54cm", "isSelected": false },
+      { "size": "56cm", "isSelected": false },
+      { "size": "58cm", "isSelected": false },
+      { "size": "60cm", "isSelected": false },
+      { "size": "62cm", "isSelected": false }
+    ],
+    "price": "2199.00",
+    "description": "Unleash your speed and power with the Speedster road bike. Engineered for maximum performance, this bike combines lightweight construction, aerodynamic design, and responsive components. Leave your rivals in the dust.",
+    "title": "Speedster Road Bike"
+  },
+  {
+    "id": "13",
+    "name": "Urban Commuter",
+    "category": "Bike Styles",
+    "product": "Hybrid Bike",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "sizes": [
+      { "size": "XS", "isSelected": false },
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false }
+    ],
+    "price": "899.00",
+    "description": "Navigate the city streets in style with the Urban Commuter hybrid bike. This versatile bike offers a comfortable riding position, efficient performance, and practical features for urban commuting. Enjoy the best of both worlds.",
+    "title": "Urban Commuter Hybrid Bike"
+  },
+  {
+    "id": "14",
+    "name": "EcoRider",
+    "category": "Bike Styles",
+    "product": "Electric Bike",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "sizes": [
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false },
+      { "size": "One Size", "isSelected": false }
+    ],
+    "price": "2499.00",
+    "description": "Ride with ease and efficiency with the EcoRider electric bike. Powered by a reliable electric motor, this bike provides assistance for longer rides and challenging terrains. Embrace the future of cycling.",
+    "title": "EcoRider Electric Bike"
+  },
+  {
+    "id": "15",
+    "name": "Fold-N-Go",
+    "category": "Bike Styles",
+    "product": "Folding Bike",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "sizes": [
+      { "size": "One Size", "isSelected": false }
+    ],
+    "price": "599.00",
+    "description": "Experience convenience and portability with the Fold-N-Go folding bike. Designed for easy storage and transport, this compact bike is perfect for commuters and urban dwellers. Fold it, go anywhere, and ride in style.",
+    "title": "Fold-N-Go Folding Bike"
+  },
+  {
+    "id": "16",
+    "name": "Beach Cruiser",
+    "category": "Bike Styles",
+    "product": "Cruiser Bike",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "sizes": [
+      { "size": "20\"", "isSelected": false },
+      { "size": "22\"", "isSelected": false },
+      { "size": "24\"", "isSelected": false },
+      { "size": "26\"", "isSelected": false },
+      { "size": "28\"", "isSelected": false },
+      { "size": "30\"", "isSelected": false },
+      { "size": "32\"", "isSelected": false }
+    ],
+    "price": "299.00",
+    "description": "Enjoy a relaxed and comfortable ride along the beach with the Beach Cruiser bike. This classic cruiser features a stylish design, wide handlebars, and a comfortable saddle for leisurely cycling by the sea.",
+    "title": "Beach Cruiser Bike"
+  },
+  {
+    "id": "17",
+    "name": "Stunt Master",
+    "category": "Bike Styles",
+    "product": "BMX Bike",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "sizes": [
+      { "size": "16\"", "isSelected": false },
+      { "size": "18\"", "isSelected": false },
+      { "size": "20\"", "isSelected": false },
+      { "size": "22\"", "isSelected": false },
+      { "size": "24\"", "isSelected": false },
+      { "size": "26\"", "isSelected": false },
+      { "size": "29\"", "isSelected": false }
+    ],
+    "price": "349.00",
+    "description": "Unleash your tricks and stunts with the Stunt Master BMX bike. Built for freestyle riding, this bike offers durability, maneuverability, and precision control. Push your limits and redefine what's possible.",
+    "title": "Stunt Master BMX Bike"
+  },
+  {
+    "id": "18",
+    "name": "Touring Pro",
+    "category": "Bike Styles",
+    "product": "Touring Bike",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "sizes": [
+      { "size": "48cm", "isSelected": false },
+      { "size": "51cm", "isSelected": false },
+      { "size": "54cm", "isSelected": false },
+      { "size": "56cm", "isSelected": false },
+      { "size": "58cm", "isSelected": false },
+      { "size": "61cm", "isSelected": false },
+      { "size": "64cm", "isSelected": false }
+    ],
+    "price": "1699.00",
+    "description": "Embark on epic cycling adventures with the Touring Pro bike. Designed for long-distance touring, this bike offers comfort, stability, and ample storage options. Discover new landscapes and create unforgettable memories.",
+    "title": "Touring Pro Bike"
+  },
+  {
+    "id": "19",
+    "name": "Retro Fixie",
+    "category": "Bike Styles",
+    "product": "Fixie Bike",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "sizes": [
+      { "size": "48cm", "isSelected": false },
+      { "size": "51cm", "isSelected": false },
+      { "size": "54cm", "isSelected": false },
+      { "size": "56cm", "isSelected": false },
+      { "size": "58cm", "isSelected": false },
+      { "size": "61cm", "isSelected": false },
+      { "size": "64cm", "isSelected": false }
+    ],
+    "price": "599.00",
+    "description": "Embrace simplicity and style with the Retro Fixie bike. This single-speed bike features a classic design, lightweight construction, and a smooth ride. Experience the essence of cycling.",
+    "title": "Retro Fixie Bike"
+  }
+]

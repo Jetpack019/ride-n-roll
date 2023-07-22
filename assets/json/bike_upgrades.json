@@ -1,0 +1,252 @@
+[
+  {
+    "id": "20",
+    "name": "Carbon-fiber Handlebar",
+    "category": "Bike Upgrades",
+    "product": "Carbon-fiber",
+    "imageUrl": [
+      "assets/images/upgrade_handle1.jpg",
+      "assets/images/upgrade_handle2.jpg",
+      "assets/images/upgrade_handle3.jpg",
+      "assets/images/upgrade_handle4.jpg"
+    ],
+    "oldPrice": "9,499.50",
+    "sizes": [
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false },
+      { "size": "XXXXL", "isSelected": false }
+    ],
+    "price": "7,499.50",
+    "description": "Upgrade your bike with this lightweight and durable carbon-fiber handlebar. The carbon construction provides excellent strength-to-weight ratio, ensuring improved handling and reduced vibrations. The ergonomic design offers a comfortable grip, allowing you to ride longer with less fatigue. Upgrade your bike's performance and aesthetics with this high-quality carbon-fiber handlebar.",
+    "title": "Lightweight and durable carbon-fiber construction"
+  },
+  {
+    "id": "21",
+    "name": "Disc Brake Upgrade Kit",
+    "category": "Bike Upgrades",
+    "oldPrice": "14,999.50",
+    "product": "Disc brakes",
+    "imageUrl": [
+      "assets/images/upgrade_db1.jpg",
+      "assets/images/upgrade_db2.jpg",
+      "assets/images/upgrade_db3.jpg",
+      "assets/images/upgrade_db4.jpg"
+    ],
+    "sizes": [
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false },
+      { "size": "XXXXL", "isSelected": false }
+    ],
+    "price": "12,499.50",
+    "description": "Enhance your bike's stopping power with this disc brake upgrade kit. The kit includes high-performance disc brakes, rotors, and brake levers for improved braking performance and control. Whether you ride on-road or off-road, this upgrade will provide reliable and consistent braking in all conditions. Upgrade your bike's safety and performance with this disc brake kit.",
+    "title": "Improved braking performance and control"
+  },
+  {
+    "id": "22",
+    "name": "Tubeless Tire Conversion Kit",
+    "category": "Bike Upgrades",
+    "product": "Tubeless",
+    "imageUrl": [
+      "assets/images/upgrade_tubeless1.jpg",
+      "assets/images/upgrade_tubeless2.jpg",
+      "assets/images/upgrade_tubeless3.jpg",
+      "assets/images/upgrade_tubeless4.jpg"
+    ],
+    "sizes": [
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false },
+      { "size": "XXXXL", "isSelected": false }
+    ],
+    "oldPrice": "4,999.50",
+    "price": "3,999.50",
+    "description": "Upgrade your bike to a tubeless setup with this conversion kit. Tubeless tires offer several benefits, including reduced punctures, lower rolling resistance, and the ability to run lower tire pressures for better traction. This kit includes tubeless rim tape, valves, and sealant for a hassle-free conversion. Enjoy a smoother and more efficient ride with this tubeless tire upgrade kit.",
+    "title": "Convert your bike to a tubeless setup"
+  },
+  {
+    "id": "23",
+    "name": "Electronic Shifting System",
+    "category": "Bike Upgrades",
+    "product": "Electronic Shifting",
+    "imageUrl": [
+      "assets/images/upgrade_shifter1.jpg",
+      "assets/images/upgrade_shifter2.jpg",
+      "assets/images/upgrade_shifter3.jpg",
+      "assets/images/upgrade_shifter4.jpg"
+    ],
+    "oldPrice": "44,999.50",
+    "price": "34,999.50",
+    "sizes": [
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false },
+      { "size": "XXXXL", "isSelected": false }
+    ],
+    "description": "Experience precise and effortless gear shifting with this electronic shifting system. The electronic system eliminates the need for traditional mechanical cables and provides smooth and reliable shifting with just a push of a button. Whether you're a professional cyclist or a recreational rider, this upgrade will take your cycling performance to the next level. Upgrade your bike with this advanced electronic shifting system.",
+    "title": "Effortless and precise gear shifting"
+  },
+  {
+    "id": "24",
+    "name": "Suspension Fork",
+    "category": "Bike Upgrades",
+    "product": "Suspension",
+    "imageUrl": [
+      "assets/images/upgrade_fork1.jpg",
+      "assets/images/upgrade_fork2.jpg",
+      "assets/images/upgrade_fork3.webp",
+      "assets/images/upgrade_fork4.webp"
+    ],
+    "oldPrice": "19,999.50",
+    "sizes": [
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false },
+      { "size": "XXXXL", "isSelected": false }
+    ],
+    "price": "14,999.50",
+    "description": "Upgrade your bike's front suspension with this high-performance suspension fork. The suspension fork absorbs impacts and vibrations, providing a smoother and more controlled ride on rough terrains. With adjustable compression and rebound settings, you can fine-tune the suspension to match your riding style and preferences. Improve your bike's off-road capabilities with this suspension fork upgrade.",
+    "title": "Enhanced front suspension for a smoother ride"
+  },
+  {
+    "id": "25",
+    "name": "Aero Handlebar",
+    "category": "Bike Upgrades",
+    "product": "Aero",
+    "imageUrl": [
+      "assets/images/upgrade_aero1.jpg",
+      "assets/images/upgrade_aero2.jpg",
+      "assets/images/upgrade_aero3.jpg",
+      "assets/images/upgrade_aero4.jpg"
+    ],
+    "oldPrice": "7,499.50",
+    "price": "5,999.50",
+    "sizes": [
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false },
+      { "size": "XXXXL", "isSelected": false }
+    ],
+    "description": "Maximize your aerodynamic advantage with this lightweight and sleek aero handlebar. The ergonomic design reduces drag and allows you to maintain a more aggressive and efficient riding position. Constructed from high-quality materials, this handlebar offers excellent stiffness and vibration damping properties. Upgrade your bike's aerodynamics with this aero handlebar.",
+    "title": "Sleek and lightweight design for improved aerodynamics"
+  },
+  {
+    "id": "26",
+    "name": "Power Meter Pedals",
+    "category": "Bike Upgrades",
+    "product": "Power meter",
+    "imageUrl": [
+      "assets/images/upgrade_powerpedals1.jpg",
+      "assets/images/upgrade_powerpedals2.jpg",
+      "assets/images/upgrade_powerpedals3.jpg",
+      "assets/images/upgrade_powerpedals4.jpg"
+    ],
+   "oldPrice": "29,999.50",
+    "price": "22,499.50",
+    "sizes": [
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false },
+      { "size": "XXXXL", "isSelected": false }
+    ],
+    "description": "Track and analyze your cycling performance with these power meter pedals. The integrated power meter measures your pedaling power, providing valuable data such as power output, cadence, and pedal efficiency. This information helps you optimize your training, improve your performance, and achieve your cycling goals. Upgrade your bike with these power meter pedals and take your cycling to the next level.",
+    "title": "Measure and analyze your cycling performance"
+  },
+  {
+    "id": "27",
+    "name": "Lightweight Carbon Wheels",
+    "category": "Bike Upgrades",
+    "product": "Lightweight",
+    "imageUrl": [
+      "assets/images/upgrade_carbonwheels1.jpg",
+      "assets/images/upgrade_carbonwheels2.jpg",
+      "assets/images/upgrade_carbonwheels3.jpg",
+      "assets/images/upgrade_carbonwheels4.jpg"
+    ],
+    "oldPrice": "79,999.50",
+    "sizes": [
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false },
+      { "size": "XXXXL", "isSelected": false }
+    ],
+    "price": "64,999.50",
+    "description": "Upgrade your bike's performance with these lightweight carbon wheels. The carbon construction reduces rotational weight, resulting in faster acceleration and improved climbing abilities. The aerodynamic profile enhances your bike's overall efficiency and speed. With smooth rolling hubs and high-quality bearings, these carbon wheels deliver a smooth and responsive ride. Upgrade your bike with these high-performance carbon wheels and experience the difference.",
+    "title": "Enhanced performance with lightweight carbon construction"
+  },
+  {
+    "id": "28",
+    "name": "Gravel Tires",
+    "category": "Bike Upgrades",
+    "product": "Gravel-ready",
+    "imageUrl": [
+      "assets/images/upgrade_graveltire1.jpg",
+      "assets/images/upgrade_graveltire2.jpg",
+      "assets/images/upgrade_graveltire3.jpg",
+      "assets/images/upgrade_graveltire4.jpg"
+    ],
+    "oldPrice": "4,499.50",
+    "price": "3,499.50",
+    "sizes": [
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false },
+      { "size": "XXXXL", "isSelected": false }
+    ],
+    "description": "Conquer any gravel adventure with these high-performance gravel tires. The aggressive tread pattern provides excellent traction and control on loose and uneven surfaces. The durable and puncture-resistant construction ensures reliability and peace of mind during your off-road rides. Whether you're exploring new trails or participating in gravel races, these tires will help you tackle any gravel challenge. Upgrade your bike with these gravel-ready tires and embrace the off-road experience.",
+    "title": "Excellent traction and durability for gravel riding"
+  },
+  {
+    "id": "29",
+    "name": "Wireless Bike Computer",
+    "category": "Bike Upgrades",
+    "product": "Wireless",
+    "imageUrl": [
+      "assets/images/upgrade_computer1.jpg",
+      "assets/images/upgrade_computer2.jpg",
+      "assets/images/upgrade_computer3.jpg",
+      "assets/images/upgrade_computer4.jpg"
+    ],
+    "sizes": [
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false },
+      { "size": "XXXXL", "isSelected": false }
+    ],
+    "oldPrice": "4,999.50",
+    "price": "3,999.50",
+    "description": "Track and analyze your cycling metrics with this wireless bike computer. The wireless design eliminates the need for messy cables and provides a clean and organized setup. The computer displays essential data such as speed, distance, time, and cadence, helping you monitor your performance and progress. With its easy-to-use interface and customizable features, this bike computer is a valuable tool for cyclists of all levels. Upgrade your bike with this wireless bike computer and elevate your cycling experience.",
+    "title": "Track and analyze your cycling metrics wirelessly"
+  }
+]

@@ -1,0 +1,235 @@
+[
+  {
+    "id": "0",
+    "name": "HelmetGuard",
+    "category": "Bike Helmets",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/710d020f-2da8-4e9e-8cff-0c8f24581488-GV6674.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/710d020f-2da8-4e9e-8cff-0c8f24581488-GV6674.webp"
+    ],
+    "oldPrice": "89.00",
+    "sizes": [
+      { "size": "S", "isSelected": false },
+      { "size": "M", "isSelected": false },
+      { "size": "L", "isSelected": false },
+      { "size": "XS", "isSelected": false },
+      { "size": "XL", "isSelected": false },
+      { "size": "XXS", "isSelected": false },
+      { "size": "XXL", "isSelected": false }
+    ],
+    "price": "69.00",
+    "description": "Stay safe and protected on your biking adventures with the HelmetGuard. This high-quality helmet features an adjustable fit, excellent ventilation, and impact-absorbing technology to keep you comfortable and secure. Ride with confidence!",
+    "title": "Premium Bike Helmet - HelmetGuard"
+  },
+  {
+    "id": "1",
+    "name": "PedalPower",
+    "category": "Pedals",
+    "oldPrice": "49.00",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp"
+
+    ],
+    "sizes": [
+      { "size": "Small", "isSelected": false },
+      { "size": "Medium", "isSelected": false },
+      { "size": "Large", "isSelected": false },
+      { "size": "Extra Small", "isSelected": false },
+      { "size": "Extra Large", "isSelected": false },
+      { "size": "Regular", "isSelected": false },
+      { "size": "Wide", "isSelected": false }
+    ],
+    
+    "price": "39.00",
+    "description": "Upgrade your bike's performance and efficiency with the PedalPower. These high-quality pedals feature a lightweight and durable design, optimal grip, and smooth bearings for a superior riding experience. Power up your cycling game!",
+    "title": "High-Performance Bike Pedals - PedalPower"
+  },
+  {
+    "id": "2",
+    "name": "SecureLock",
+    "category": "Bike Locks",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "sizes": [
+      { "size": "Extra Small (10cm)", "isSelected": false },
+      { "size": "Small (60cm)", "isSelected": false },
+      { "size": "Medium (90cm)", "isSelected": false },
+      { "size": "Large (120cm)", "isSelected": false },
+      { "size": "Extra Large (150cm)", "isSelected": false },
+      { "size": "XXL (180cm)", "isSelected": false },
+      { "size": "XXXL (210cm)", "isSelected": false }
+    ],
+    
+    "oldPrice": "39.00",
+    "price": "29.00",
+    "description": "Protect your bike from theft with the SecureLock. This reliable bike lock features a sturdy construction, a secure locking mechanism, and a compact design for easy portability. Keep your bike safe and secure wherever you go!",
+    "title": "Durable Bike Lock - SecureLock"
+  },
+  {
+    "id": "3",
+    "name": "LEDGlow",
+    "category": "Bike Lights",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp"
+
+    ],
+    "oldPrice": "29.00",
+    "price": "19.00",
+    "sizes": [
+      { "size": "Compact", "isSelected": false },
+      { "size": "Small", "isSelected": false },
+      { "size": "Medium", "isSelected": false },
+      { "size": "Large", "isSelected": false },
+      { "size": "Extra Large", "isSelected": false },
+      { "size": "Handlebar Mount", "isSelected": false },
+      { "size": "Helmet Mount", "isSelected": false }
+    ],
+    
+    "description": "Enhance your visibility and ride safely during low-light conditions with the LEDGlow bike lights. These compact and bright LED lights offer multiple lighting modes, easy installation, and long battery life. Illuminate your path!",
+    "title": "High-Visibility Bike Lights - LEDGlow"
+  },
+  {
+    "id": "4",
+    "name": "GearMaster",
+    "category": "Bike Repair Tools",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp"
+
+    ],
+    "oldPrice": "59.00",
+    "sizes": [
+      { "size": "Basic Tool Set", "isSelected": false },
+      { "size": "Compact Tool Set", "isSelected": false },
+      { "size": "Portable Multi-Tool", "isSelected": false },
+      { "size": "Professional Tool Set", "isSelected": false },
+      { "size": "Specialized Tool Set", "isSelected": false },
+      { "size": "Essential Repair Kit", "isSelected": false },
+      { "size": "Comprehensive Tool Set", "isSelected": false }
+    ],
+    
+    "price": "49.00",
+    "description": "Be prepared for any bike maintenance with the GearMaster bike repair tools. This comprehensive toolkit includes essential tools like wrenches, tire levers, chain tools, and more. Keep your bike in top shape!",
+    "title": "Complete Bike Repair Toolkit - GearMaster"
+  },
+  {
+    "id": "5",
+    "name": "HydraGrip",
+    "category": "Water Bottle Cages",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp"
+
+    ],
+    "oldPrice": "19.00",
+    "price": "14.00",
+    "sizes": [
+      { "size": "Standard", "isSelected": false },
+      { "size": "Compact", "isSelected": false },
+      { "size": "Lightweight", "isSelected": false },
+      { "size": "Aero", "isSelected": false },
+      { "size": "Adjustable", "isSelected": false },
+      { "size": "Side-Entry", "isSelected": false },
+      { "size": "Handlebar-Mount", "isSelected": false }
+    ],
+    
+    "description": "Stay hydrated on your rides with the HydraGrip water bottle cage. This lightweight and durable cage securely holds your water bottle, allowing for easy access and preventing spills. Quench your thirst on the go!",
+    "title": "Secure Water Bottle Cage - HydraGrip"
+  },
+  {
+    "id": "6",
+    "name": "ComfortRide",
+    "category": "Cycling Gloves",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "oldPrice": "29.00",
+    "price": "24.00",
+    "sizes": [
+      { "size": "XS (16-17 cm)", "isSelected": false },
+      { "size": "S (17-18 cm)", "isSelected": false },
+      { "size": "M (18-19 cm)", "isSelected": false },
+      { "size": "L (19-20 cm)", "isSelected": false },
+      { "size": "XL (20-21 cm)", "isSelected": false },
+      { "size": "XXL (21-22 cm)", "isSelected": false },
+      { "size": "XXXL (22-23 cm)", "isSelected": false }
+    ],
+    
+    "description": "Experience maximum comfort and grip with the ComfortRide cycling gloves. These gloves feature padded palms, breathable fabric, and touchscreen compatibility, providing excellent control and protection during your rides.",
+    "title": "Premium Cycling Gloves - ComfortRide"
+  },
+  {
+    "id": "7",
+    "name": "SaddlePro",
+    "category": "Bike Saddles",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp"
+    ],
+    "oldPrice": "69.00",
+    "sizes": [
+      { "size": "Narrow", "isSelected": false },
+      { "size": "Medium-Narrow", "isSelected": false },
+      { "size": "Medium", "isSelected": false },
+      { "size": "Medium-Wide", "isSelected": false },
+      { "size": "Wide", "isSelected": false },
+      { "size": "Extra Wide", "isSelected": false },
+      { "size": "Custom Fit", "isSelected": false }
+    ],
+    
+    "price": "54.00",
+    "description": "Upgrade your comfort with the SaddlePro bike saddle. This ergonomically designed saddle offers excellent support, ventilation, and shock absorption, ensuring a smooth and enjoyable ride. Ride in comfort!",
+    "title": "Premium Bike Saddle - SaddlePro"
+  },
+  {
+    "id": "8",
+    "name": "ReflectGuard",
+    "category": "Reflective Gear",
+    "imageUrl": [
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "oldPrice": "24.00",
+    "price": "19.00",
+    "sizes": [
+      { "size": "Small", "isSelected": false },
+      { "size": "Medium", "isSelected": false },
+      { "size": "Large", "isSelected": false },
+      { "size": "Extra Small", "isSelected": false },
+      { "size": "Extra Large", "isSelected": false },
+      { "size": "XXL", "isSelected": false },
+      { "size": "XXXL", "isSelected": false }
+    ],
+    
+    "description": "Stay visible and safe on the road with the ReflectGuard reflective gear. This lightweight and adjustable gear features reflective strips that enhance your visibility during low-light conditions. Be seen and ride with confidence!",
+    "title": "High-Visibility Reflective Gear - ReflectGuard"
+  },
+  {
+    "id": "9",
+    "name": "TrailMaster",
+    "category": "Bike Trailers",
+    "imageUrl": [
+       "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp",
+      "https://d326fntlu7tb1e.cloudfront.net/uploads/51ee25c7-46b6-4fd4-bfe0-7dca9a9fd8a9-GX6326_a1.webp"
+    ],
+    "oldPrice": "199.00",
+    "price": "149.00",
+    "sizes": [
+      { "size": "Single Child", "isSelected": false },
+      { "size": "Double Child", "isSelected": false },
+      { "size": "Cargo", "isSelected": false },
+      { "size": "Pet", "isSelected": false },
+      { "size": "Touring", "isSelected": false },
+      { "size": "Foldable", "isSelected": false },
+      { "size": "Off-Road", "isSelected": false }
+    ],
+    
+    "description": "Take your adventures further with the TrailMaster bike trailer. This versatile and sturdy trailer allows you to transport cargo, groceries, or even your furry friend with ease. Expand the capabilities of your bike!",
+    "title": "Durable Bike Trailer - TrailMaster"
+  }
+]
